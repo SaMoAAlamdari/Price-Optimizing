@@ -34,6 +34,9 @@ This project analyzes retail sales data to explore pricing strategies and their 
 - Defining price brackets and segments.
 - Applying dynamic pricing rules and comparing sales results.
 
+## Data
+The retail sales dataset used in this project is available [here](https://github.com/SaMoAAlamdari/Price-Optimizing/blob/main/retail_sales_dataset.csv).
+
 ## Contributing
 Feel free to contribute by creating pull requests, raising issues, or suggesting improvements.
 
